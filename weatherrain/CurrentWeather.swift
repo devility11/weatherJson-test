@@ -59,7 +59,7 @@ class CurrentWeather {
     
     
     // a comleted azt jeloli majd h a letoltes befejezodott
-    func downloadWeatherDetails(completed: DownloadComplete) {
+   /* func downloadWeatherDetails(completed: DownloadComplete) {
         //Download Current Weather Data
         
         Alamofire.request(CURRENT_WEATHER_URL).responseJSON { response in
@@ -107,10 +107,51 @@ class CurrentWeather {
                 break
             }
         }
+        return 
         // You'll notice this occurs in the console LONG before the request completes.
         print("~~~~~~ below request ~~~~~~~~")
         
     
+    }
+*/
+    
+    
+    func downloadWeatherDetails(completed: @escaping DownloadComplete) {
+        //Download Current Weather Data
+        Alamofire.request(CURRENT_WEATHER_URL).responseJSON { response in
+            let result = response.result
+    
+            if let dict = result.value as? Dictionary<String, AnyObject> {
+    
+                if let name = dict["name"] as? String {
+                    self._cityName = name.capitalized
+                    print(self._cityName)
+                }
+    
+                if let weather = dict["weather"] as? [Dictionary<String, AnyObject>] {
+    
+                    if let main = weather[0]["main"] as? String {
+                        self._weatherType = main.capitalized
+                        print(self._weatherType)
+                    }
+    
+                }
+    
+                if let main = dict["main"] as? Dictionary<String, AnyObject> {
+    
+                    if let currentTemperature = main["temp"] as? Double {
+    
+                        let kelvinToFarenheitPreDivision = (currentTemperature * (9/5) - 459.67)
+    
+                        let kelvinToFarenheit = Double(round(10 * kelvinToFarenheitPreDivision/10))
+    
+                        self._currentTemp = kelvinToFarenheit
+                        print(self._currentTemp)
+                    }
+                }
+            }
+            completed()
+        }
     }
 
     

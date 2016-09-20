@@ -18,6 +18,7 @@ let API_KEY = "0e488838bce84d922e014c4315b52932"
 
 let CURRENT_WEATHER_URL = "\(BASE_URL)\(LATITUDE)47.30\(LONGITUDE)19.5\(APP_ID)\(API_KEY)"
 
+let FORECAST_URL = "http://api.openweathermap.org/data/2.5/forecast/daily?lat=47.30&lon=19.50&cnt=10&mode=json&appid=0e488838bce84d922e014c4315b52932"
 
 
 //ez fogja megmondani a funcionknak h a download befejezodott

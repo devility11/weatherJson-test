@@ -9,38 +9,6 @@
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "weatherrain/WeatherVC.swift"
-            timestampString = "495911388.465159"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "34"
-            endingLineNumber = "34"
-            landmarkName = "viewDidLoad()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "weatherrain/WeatherVC.swift"
-            timestampString = "495913442.444952"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "37"
-            endingLineNumber = "37"
-            landmarkName = "viewDidLoad()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
             filePath = "weatherrain/CurrentWeather.swift"
             timestampString = "495911455.007497"
             startingColumnNumber = "9223372036854775807"
@@ -90,139 +58,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "weatherrain/WeatherVC.swift"
-            timestampString = "495911534.065005"
+            timestampString = "496094688.260585"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "36"
-            endingLineNumber = "36"
-            landmarkName = "viewDidLoad()"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "weatherrain.WeatherVC.viewDidLoad () -&gt; ()"
-                  moduleName = "weatherrain"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Volumes/KINGSTON/swift/weatherrain/weatherrain/WeatherVC.swift"
-                  timestampString = "495913642.225872"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "36"
-                  endingLineNumber = "36"
-                  offsetFromSymbolStart = "764">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "weatherrain.WeatherVC.(viewDidLoad () -&gt; ()).(closure #1)"
-                  moduleName = "weatherrain"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Volumes/KINGSTON/swift/weatherrain/weatherrain/WeatherVC.swift"
-                  timestampString = "495913642.229301"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "37"
-                  endingLineNumber = "37"
-                  offsetFromSymbolStart = "19">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "weatherrain/WeatherVC.swift"
-            timestampString = "495913442.444952"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "75"
-            endingLineNumber = "75"
-            landmarkName = "updateMainUI()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "weatherrain/WeatherVC.swift"
-            timestampString = "495911638.128633"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "22"
-            endingLineNumber = "22"
+            startingLineNumber = "83"
+            endingLineNumber = "83"
             landmarkName = "WeatherVC"
             landmarkType = "3">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "weatherrain.WeatherVC.currentWeather.getter : Swift.ImplicitlyUnwrappedOptional&lt;weatherrain.CurrentWeather&gt;"
-                  moduleName = "weatherrain"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Volumes/KINGSTON/swift/weatherrain/weatherrain/WeatherVC.swift"
-                  timestampString = "495913642.240436"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "22"
-                  endingLineNumber = "22"
-                  offsetFromSymbolStart = "35">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "weatherrain.WeatherVC.currentWeather.setter : Swift.ImplicitlyUnwrappedOptional&lt;weatherrain.CurrentWeather&gt;"
-                  moduleName = "weatherrain"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Volumes/KINGSTON/swift/weatherrain/weatherrain/WeatherVC.swift"
-                  timestampString = "495913642.243188"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "22"
-                  endingLineNumber = "22"
-                  offsetFromSymbolStart = "61">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "weatherrain.WeatherVC.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; weatherrain.WeatherVC"
-                  moduleName = "weatherrain"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Volumes/KINGSTON/swift/weatherrain/weatherrain/WeatherVC.swift"
-                  timestampString = "495913642.246616"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "22"
-                  endingLineNumber = "22"
-                  offsetFromSymbolStart = "469">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "weatherrain.WeatherVC.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;weatherrain.WeatherVC&gt;"
-                  moduleName = "weatherrain"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Volumes/KINGSTON/swift/weatherrain/weatherrain/WeatherVC.swift"
-                  timestampString = "495913642.249952"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "22"
-                  endingLineNumber = "22"
-                  offsetFromSymbolStart = "356">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -237,40 +79,8 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "73"
             endingLineNumber = "73"
-            landmarkName = "downloadWeatherDetails(completed:)"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "weatherrain.CurrentWeather.(downloadWeatherDetails (completed : () -&gt; ()) -&gt; ()).(closure #1)"
-                  moduleName = "weatherrain"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Volumes/KINGSTON/swift/weatherrain/weatherrain/CurrentWeather.swift"
-                  timestampString = "495913642.258039"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "74"
-                  endingLineNumber = "74"
-                  offsetFromSymbolStart = "1468">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "weatherrain.CurrentWeather.(downloadWeatherDetails (completed : () -&gt; ()) -&gt; ()).(closure #1)"
-                  moduleName = "weatherrain"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Volumes/KINGSTON/swift/weatherrain/weatherrain/CurrentWeather.swift"
-                  timestampString = "495913642.261706"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "74"
-                  endingLineNumber = "74"
-                  offsetFromSymbolStart = "2015">
-               </Location>
-            </Locations>
+            landmarkName = "CurrentWeather"
+            landmarkType = "3">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -285,8 +95,8 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "72"
             endingLineNumber = "72"
-            landmarkName = "downloadWeatherDetails(completed:)"
-            landmarkType = "7">
+            landmarkName = "CurrentWeather"
+            landmarkType = "3">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -301,8 +111,8 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "77"
             endingLineNumber = "77"
-            landmarkName = "downloadWeatherDetails(completed:)"
-            landmarkType = "7">
+            landmarkName = "CurrentWeather"
+            landmarkType = "3">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -317,40 +127,56 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "76"
             endingLineNumber = "76"
-            landmarkName = "downloadWeatherDetails(completed:)"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "weatherrain.CurrentWeather.(downloadWeatherDetails (completed : () -&gt; ()) -&gt; ()).(closure #1)"
-                  moduleName = "weatherrain"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Volumes/KINGSTON/swift/weatherrain/weatherrain/CurrentWeather.swift"
-                  timestampString = "495913684.919008"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "76"
-                  endingLineNumber = "76"
-                  offsetFromSymbolStart = "2053">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "weatherrain.CurrentWeather.(downloadWeatherDetails (completed : () -&gt; ()) -&gt; ()).(closure #1)"
-                  moduleName = "weatherrain"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Volumes/KINGSTON/swift/weatherrain/weatherrain/CurrentWeather.swift"
-                  timestampString = "495913684.922712"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "76"
-                  endingLineNumber = "76"
-                  offsetFromSymbolStart = "2516">
-               </Location>
-            </Locations>
+            landmarkName = "CurrentWeather"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "weatherrain/CurrentWeather.swift"
+            timestampString = "495916365.428844"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "CurrentWeather"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "weatherrain/CurrentWeather.swift"
+            timestampString = "495916371.555093"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "98"
+            endingLineNumber = "98"
+            landmarkName = "CurrentWeather"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "weatherrain/WeatherVC.swift"
+            timestampString = "496094688.260585"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
+            landmarkName = "WeatherVC"
+            landmarkType = "3">
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
